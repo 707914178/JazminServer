@@ -172,6 +172,6 @@ JazminServer帮助开发者实现了众多的底层功能，基于JazminServer�
 
 <p>
 <img src='https://github.com/guooscar/JazminServer/blob/master/JazminServer/doc/images/DeployRobot.jpg?raw=true'/>
-<div alian="center">部署机器人</div>
+<div alian="center">部署机器人 -</div>
 </p>
 
