@@ -167,7 +167,7 @@ JazminServer帮助开发者实现了众多的底层功能，基于JazminServer�
 </p>
 <p>
 <img src='https://github.com/guooscar/JazminServer/blob/master/JazminServer/doc/images/JazminDeployer_sshlogin.png?raw=true'/>
-<div alian="center">WebSSH登陆</div>
+<div alian="center">WebSSH登陆 </div>
 </p>
 
 <p>
